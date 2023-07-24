@@ -1,2 +1,2 @@
 # Primer-Repositorio
-Codigo de algoritmo de ordenamiento heapsort
+Algoritmo de ordenamiento heapsort
