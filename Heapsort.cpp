@@ -48,7 +48,7 @@ int main() {
 
     heapsort(arr, n);
 
-    cout << "Arreglo ordenado usando heapsort:" << endl;
+    cout << "Arreglo ordenado usando heapsort finalizado:" << endl;
     for (int i = 0; i < n; i++)
         cout << arr[i] << " ";
     cout << endl;
